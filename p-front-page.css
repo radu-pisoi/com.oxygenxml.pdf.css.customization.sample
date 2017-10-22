@@ -22,8 +22,8 @@ front-page-title{
 front-page-title {
     background-image: url("images/author_cover_logo.png");
     background-repeat:no-repeat;
-    background-position: 10% center;
-    padding-left: 100px;    
+    background-position: 0 center;
+    padding-left: 110px;    
     padding-top: 20px;
 }
 
